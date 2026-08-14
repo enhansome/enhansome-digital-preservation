@@ -195,7 +195,7 @@
             "last_commit": "2026-06-29T22:43:49Z",
             "owner": "pdf-association",
             "repo": "pdf-corpora",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -209,7 +209,7 @@
             "last_commit": "2026-04-13T22:22:06Z",
             "owner": "veraPDF",
             "repo": "veraPDF-corpus",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2021-12-13T11:45:51Z",
             "owner": "IDPF",
             "repo": "epub-testsuite",
-            "stars": 81
+            "stars": 80
           }
         },
         {
@@ -333,7 +333,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:02:14.491Z",
+    "last_updated": "2026-08-14T23:42:14.744Z",
     "original_repository": "digipres/awesome-digital-preservation",
     "original_repository_sha": "2cd823277922e91cba1db8ba1d9edd43be07f933",
     "enhanced_repository": "enhansome/enhansome-digital-preservation",
