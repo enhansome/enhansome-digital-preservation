@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome digital preservation resources.
 
-This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 495,053 | 🐛 100 | 📅 2026-06-30 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
+This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 495,390 | 🐛 99 | 📅 2026-06-30 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
 
 Contributions are welcome. Please add links through pull requests, or create an issue to start a discussion. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidance.  And if obsolescence claims something awesome, there's always the [Archive](ARCHIVED.md).
 
@@ -211,6 +211,7 @@ To improve our digital preservation tools, we need to be able to test them and e
 * [TechSlides sample files for web development (*archived version*)](http://web.archive.org/web/20220124205507/http://techslides.com/sample-files-for-development) - Sample files for various image formats, video files, data structures, fonts, and web development files.
 * [Internet File Formats](https://archive.org/details/internet-file-formats-cd) - Companion CD-ROM to [Internet File Formats](https://archive.org/details/mac_Internet_File_Formats_1995), contains Sample Files and some File Format Specifications for a variety of common file formats circa 1995.
 * [Sembiance file format samples](https://sembiance.com/fileFormatSamples/)
+* [File Samples](https://filesamples.com/) - 814 sample files in various qualities in 180 different formats.
 
 ### Format-specific Corpora
 
@@ -302,4 +303,4 @@ Deep file characterisation enables validation, identification of preservation ri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
