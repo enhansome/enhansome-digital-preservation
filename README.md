@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome digital preservation resources.
 
-This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 496,139 | 🐛 100 | 📅 2026-06-30 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
+This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 496,566 | 🐛 100 | 📅 2026-06-30 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
 
 Contributions are welcome. Please add links through pull requests, or create an issue to start a discussion. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidance.  And if obsolescence claims something awesome, there's always the [Archive](ARCHIVED.md).
 
@@ -303,4 +303,4 @@ Deep file characterisation enables validation, identification of preservation ri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
