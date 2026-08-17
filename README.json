@@ -209,7 +209,7 @@
             "last_commit": "2026-04-13T22:22:06Z",
             "owner": "veraPDF",
             "repo": "veraPDF-corpus",
-            "stars": 92
+            "stars": 93
           }
         },
         {
@@ -333,7 +333,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:39:00.516Z",
+    "last_updated": "2026-08-17T23:41:14.433Z",
     "original_repository": "digipres/awesome-digital-preservation",
     "original_repository_sha": "2cd823277922e91cba1db8ba1d9edd43be07f933",
     "enhanced_repository": "enhansome/enhansome-digital-preservation",
