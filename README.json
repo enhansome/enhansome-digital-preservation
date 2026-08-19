@@ -1,340 +1,356 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Demystify Lite",
+                  "description": "This runs Siegfried WASM on your files in your browser and outputs a Demystify formatted report profiling your collection and highlighting files that might require specific attention during appraisal, such as duplicates; and through various preservation activities, such as caring for file names encoded using specific character-encodings.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 17277958,
+                    "language": "Go",
+                    "last_commit": "2026-07-26T08:22:20Z",
+                    "owner": "richardlehane",
+                    "repo": "siegfried",
+                    "stars": 270
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "warc-analyser",
+                  "description": "Proof-of-concept that analyses WARC files in your browser. See https://github.com/edsu/warc-analyzer for more information.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 552978918,
+                    "language": "JavaScript",
+                    "last_commit": "2023-02-11T12:14:09Z",
+                    "owner": "edsu",
+                    "repo": "warc-analyzer",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": "These tools run entirely in your web browser, so no data is sent anywhere.",
+              "node_type": "group",
+              "title": "In-Browser Tools"
+            }
+          ],
+          "description": "There are a lot of tools out there (see the tools section below), but some tools are particularly great for early experimentation. These tools can be used right in your web browser, so you can get started without installing software locally.",
+          "node_type": "group",
+          "title": "Experiment with Tools"
+        }
+      ],
       "title": "Get Started"
     },
     {
-      "description": "There are a lot of tools out there (see the tools section below), but some tools are particularly great for early experimentation. These tools can be used right in your web browser, so you can get started without installing software locally.",
-      "items": [],
-      "title": "Experiment with Tools"
-    },
-    {
-      "description": "These tools run entirely in your web browser, so no data is sent anywhere.",
+      "description": "To improve our digital preservation tools, we need to be able to test them and evaluate of their performance. Publicly available sample files make this much easier. Tool developers can use them to test their work, discover bugs, and hone their tools ready for others to use. A test corpus can contain real digital objects from a collection, or be created specifically for exhibiting certain characteristics for testing purposes. Real data, particularly with examples of broken, badly formed or corrupted files can be particularly useful.",
       "items": [
         {
-          "node_type": "item",
-          "title": "Demystify Lite",
-          "description": "This runs Siegfried WASM on your files in your browser and outputs a Demystify formatted report profiling your collection and highlighting files that might require specific attention during appraisal, such as duplicates; and through various preservation activities, such as caring for file names encoded using specific character-encodings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-26T08:22:20Z",
-            "owner": "richardlehane",
-            "repo": "siegfried",
-            "stars": 270
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "\"Small\"",
+              "description": "Collection of \"the smallest possible syntactically valid files in different programming/scripting/markup languages.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3014092,
+                "language": "HTML",
+                "last_commit": "2024-07-18T23:58:51Z",
+                "owner": "mathiasbynens",
+                "repo": "small",
+                "stars": 2297
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The OPF Format Corpus",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4808693,
+                "language": "Rich Text Format",
+                "last_commit": "2026-06-05T16:12:18Z",
+                "owner": "openpreserve",
+                "repo": "format-corpus",
+                "stars": 208
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "digicam corpus",
+              "description": "Contains a corpus of Digital Camera files collected by Tyler Thorsted.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238313641,
+                "language": "Visual Basic 6.0",
+                "last_commit": "2026-01-31T16:52:21Z",
+                "owner": "thorsted",
+                "repo": "digicam_corpus",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Archivematica Sample Data",
+              "description": "Includes OPF format corpus, as well as other test material.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5818064,
+                "language": "Rich Text Format",
+                "last_commit": "2026-01-22T17:55:09Z",
+                "owner": "artefactual",
+                "repo": "archivematica-sampledata",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JHOVE2's test files",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16545869,
+                "language": "Java",
+                "last_commit": "2022-01-27T16:16:42Z",
+                "owner": "opf-labs",
+                "repo": "jhove2",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The Skeleton Test Suite",
+              "description": "Builds test files from PRONOM binary and container signatures. These can be used to test DROID and other (compatible) identification tools.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 31055883,
+                "language": null,
+                "last_commit": "2023-09-24T08:49:43Z",
+                "owner": "exponential-decay",
+                "repo": "pronom-archive-and-skeleton-test-suite",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PREFORMA Ground Truth Classes",
+              "description": "Instructions how to reproduce validation-failing files for Matroska, FFV1, LPCM, TIFF, and PDF formats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87933485,
+                "language": null,
+                "last_commit": "2017-10-12T14:24:09Z",
+                "owner": "preforma",
+                "repo": "groundtruth",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RDSS Archivematica Test Data Corpus",
+              "description": "A collection of research dataset files used for testing Archivematica integration and functionality in the JISC Research Data Shared Service (RDSS).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94476808,
+                "language": "HTML",
+                "last_commit": "2017-06-30T08:08:25Z",
+                "owner": "artefactual-labs",
+                "repo": "rdss-archivematica-test-data-corpus",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MediaArea-RegressionTestingFiles",
+              "description": "Public regression testing files for MediaArea. Contains AVI, FLV, MPEG Audio, MOV, MPEG-4, MPEG-PS, and Matroska files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61044515,
+                "language": "Shell",
+                "last_commit": "2017-10-06T11:14:18Z",
+                "owner": "MediaArea",
+                "repo": "MediaArea-RegressionTestingFiles",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multi-format Corpora"
         },
         {
-          "node_type": "item",
-          "title": "warc-analyser",
-          "description": "Proof-of-concept that analyses WARC files in your browser. See https://github.com/edsu/warc-analyzer for more information.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-02-11T12:14:09Z",
-            "owner": "edsu",
-            "repo": "warc-analyzer",
-            "stars": 5
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "See also: The PDF Association's list of PDF-focused corpora",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 291918564,
+                    "language": null,
+                    "last_commit": "2026-06-29T22:43:49Z",
+                    "owner": "pdf-association",
+                    "repo": "pdf-corpora",
+                    "stars": 185
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "veraPDF Corpus",
+                  "description": "For PDF/A.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 34384186,
+                    "language": null,
+                    "last_commit": "2026-04-13T22:22:06Z",
+                    "owner": "veraPDF",
+                    "repo": "veraPDF-corpus",
+                    "stars": 93
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PDF Differences",
+                  "description": "Targeted test files that highlight specific portability and interoperability issues by the PDF Association.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 695168622,
+                    "language": "HTML",
+                    "last_commit": "2026-03-20T02:42:29Z",
+                    "owner": "pdf-association",
+                    "repo": "pdf-differences",
+                    "stars": 15
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "PDF"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "The IDPF ePub test suite",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5948525,
+                    "language": "HTML",
+                    "last_commit": "2021-12-13T11:45:51Z",
+                    "owner": "IDPF",
+                    "repo": "epub-testsuite",
+                    "stars": 80
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "KBNLresearch/epubPolicyTests",
+                  "description": "Some #epub samples with encryption, DTBook content and foreign resources, with corresponding #epubcheck output.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 32016342,
+                    "language": "HTML",
+                    "last_commit": "2017-08-29T10:44:12Z",
+                    "owner": "KBNLresearch",
+                    "repo": "epubPolicyTests",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ePub"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "OPF JP2k test corpus",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4808693,
+                    "language": "Rich Text Format",
+                    "last_commit": "2026-06-05T16:12:18Z",
+                    "owner": "openpreserve",
+                    "repo": "format-corpus",
+                    "stars": 208
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "openjpeg-data",
+                  "description": "Test files for OpenJPEG.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30868481,
+                    "language": null,
+                    "last_commit": "2024-11-13T15:25:44Z",
+                    "owner": "uclouvain",
+                    "repo": "openjpeg-data",
+                    "stars": 48
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "jpylyzer-test-files",
+                  "description": "Test files for Jpylyzer.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 9031011,
+                    "language": "Shell",
+                    "last_commit": "2024-04-02T16:32:45Z",
+                    "owner": "openpreserve",
+                    "repo": "jpylyzer-test-files",
+                    "stars": 19
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "JPEG2000"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Format-specific Corpora"
         }
       ],
-      "title": "In-Browser Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "\"Small\"",
-          "description": "Collection of \"the smallest possible syntactically valid files in different programming/scripting/markup languages.\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-07-18T23:58:51Z",
-            "owner": "mathiasbynens",
-            "repo": "small",
-            "stars": 2297
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "The OPF Format Corpus",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rich Text Format",
-            "last_commit": "2026-06-05T16:12:18Z",
-            "owner": "openpreserve",
-            "repo": "format-corpus",
-            "stars": 208
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "digicam corpus",
-          "description": "Contains a corpus of Digital Camera files collected by Tyler Thorsted.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Visual Basic 6.0",
-            "last_commit": "2026-01-31T16:52:21Z",
-            "owner": "thorsted",
-            "repo": "digicam_corpus",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Archivematica Sample Data",
-          "description": "Includes OPF format corpus, as well as other test material.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rich Text Format",
-            "last_commit": "2026-01-22T17:55:09Z",
-            "owner": "artefactual",
-            "repo": "archivematica-sampledata",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JHOVE2's test files",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-01-27T16:16:42Z",
-            "owner": "opf-labs",
-            "repo": "jhove2",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "The Skeleton Test Suite",
-          "description": "Builds test files from PRONOM binary and container signatures. These can be used to test DROID and other (compatible) identification tools.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2023-09-24T08:49:43Z",
-            "owner": "exponential-decay",
-            "repo": "pronom-archive-and-skeleton-test-suite",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PREFORMA Ground Truth Classes",
-          "description": "Instructions how to reproduce validation-failing files for Matroska, FFV1, LPCM, TIFF, and PDF formats.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-10-12T14:24:09Z",
-            "owner": "preforma",
-            "repo": "groundtruth",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RDSS Archivematica Test Data Corpus",
-          "description": "A collection of research dataset files used for testing Archivematica integration and functionality in the JISC Research Data Shared Service (RDSS).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2017-06-30T08:08:25Z",
-            "owner": "artefactual-labs",
-            "repo": "rdss-archivematica-test-data-corpus",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MediaArea-RegressionTestingFiles",
-          "description": "Public regression testing files for MediaArea. Contains AVI, FLV, MPEG Audio, MOV, MPEG-4, MPEG-PS, and Matroska files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2017-10-06T11:14:18Z",
-            "owner": "MediaArea",
-            "repo": "MediaArea-RegressionTestingFiles",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Multi-format Corpora"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Format-specific Corpora"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "See also: The PDF Association's list of PDF-focused corpora",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-29T22:43:49Z",
-            "owner": "pdf-association",
-            "repo": "pdf-corpora",
-            "stars": 185
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "veraPDF Corpus",
-          "description": "For PDF/A.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-13T22:22:06Z",
-            "owner": "veraPDF",
-            "repo": "veraPDF-corpus",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PDF Differences",
-          "description": "Targeted test files that highlight specific portability and interoperability issues by the PDF Association.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-03-20T02:42:29Z",
-            "owner": "pdf-association",
-            "repo": "pdf-differences",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "PDF"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "The IDPF ePub test suite",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2021-12-13T11:45:51Z",
-            "owner": "IDPF",
-            "repo": "epub-testsuite",
-            "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KBNLresearch/epubPolicyTests",
-          "description": "Some #epub samples with encryption, DTBook content and foreign resources, with corresponding #epubcheck output.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2017-08-29T10:44:12Z",
-            "owner": "KBNLresearch",
-            "repo": "epubPolicyTests",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "ePub"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OPF JP2k test corpus",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rich Text Format",
-            "last_commit": "2026-06-05T16:12:18Z",
-            "owner": "openpreserve",
-            "repo": "format-corpus",
-            "stars": 208
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "openjpeg-data",
-          "description": "Test files for OpenJPEG.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-11-13T15:25:44Z",
-            "owner": "uclouvain",
-            "repo": "openjpeg-data",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jpylyzer-test-files",
-          "description": "Test files for Jpylyzer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-04-02T16:32:45Z",
-            "owner": "openpreserve",
-            "repo": "jpylyzer-test-files",
-            "stars": 19
-          }
-        }
-      ],
-      "title": "JPEG2000"
-    },
-    {
-      "description": "If the existing corpora aren't cutting it, perhaps you can contribute to the OPF Format Corpus hosted on GitHub. There's a guide here on how to contribute (archived version) or you can contact OPF for help on how to get involved.",
-      "items": [],
-      "title": "Building Corpora"
-    },
-    {
-      "description": "Web archives can provide a useful source of files of particular formats. For example, search via the UKWA interface. Note that UKWA is offline at present.",
-      "items": [],
-      "title": "Sourcing test files from web archives"
-    },
-    {
-      "description": "Tyler Thorsted's File Formats - Finding Samples repository lists various resources that can be used to find file format samples.",
-      "items": [],
-      "title": "Sourcing test files"
-    },
-    {
-      "description": "Contributing to the development and improvement of tools is easy, even if you're not technical. Check out this guide to making small documentation edits, or raising issues on GitHub",
-      "items": [],
-      "title": "Improve The Tools"
+      "title": "Find Test Files"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:41:42.765Z",
+    "last_updated": "2026-08-19T12:27:17.590Z",
     "original_repository": "digipres/awesome-digital-preservation",
+    "original_repository_id": 559326624,
     "original_repository_sha": "2cd823277922e91cba1db8ba1d9edd43be07f933",
     "enhanced_repository": "enhansome/enhansome-digital-preservation",
     "enhanced_repository_description": null,
