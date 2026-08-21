@@ -263,7 +263,7 @@
                     "last_commit": "2021-12-13T11:45:51Z",
                     "owner": "IDPF",
                     "repo": "epub-testsuite",
-                    "stars": 80
+                    "stars": 81
                   }
                 },
                 {
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:44:35.478Z",
+    "last_updated": "2026-08-21T23:43:29.531Z",
     "original_repository": "digipres/awesome-digital-preservation",
     "original_repository_id": 559326624,
     "original_repository_sha": "2cd823277922e91cba1db8ba1d9edd43be07f933",
