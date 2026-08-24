@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome digital preservation resources.
 
-This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 499,302 | 🐛 106 | 📅 2026-08-21 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
+This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 499,520 | 🐛 106 | 📅 2026-08-21 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
 
 Contributions are welcome. Please add links through pull requests, or create an issue to start a discussion. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidance.  And if obsolescence claims something awesome, there's always the [Archive](ARCHIVED.md).
 
@@ -53,6 +53,7 @@ Spotted digital data at risk, but don't know who can save it?
 
 ### Learn About Digital Preservation
 
+* [Brainscape Digital Preservation Flash Cards](https://www.brainscape.com/p/1FA8-LH-5DKH7) - See <https://github.com/ross-spencer/brainscape-digital-preservation#readme> ⭐ 34 | 🐛 11 | 📅 2020-01-25 for more information.
 * The [Getting Started chapter of the Digital Preservation Handbook](https://www.dpconline.org/handbook/getting-started) is a great place to start.
 * [The Digital Preservation Handbook Glossary](https://www.dpconline.org/handbook/glossary) - Introduces a lot of the core terminology.
 * For material that describes the broader issues, you can refer to [Digital Preservation on Wikipedia](https://en.wikipedia.org/wiki/Digital_preservation), and consider contributing to the [Digital Preservation Wikipedia Project](http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Digital_Preservation).
@@ -62,7 +63,6 @@ Spotted digital data at risk, but don't know who can save it?
 * Learn about [Preserving digital Objects with Restricted Resources](http://digitalpowrr.niu.edu/)
 * Learn how to [Authenticate, Manage, and Preserve Video](https://archiving.witness.org/) -- WITNESS trains activists to archive and preserve their video so that human rights abuses cannot be denied or forgotten over time.
 * Explore and contribute to the [DP Requirements and Solutions wiki](http://wiki.opf-labs.org/display/REQ/Digital+Preservation+and+Data+Curation+Requirements+and+Solutions)
-* [Brainscape Digital Preservation Flash Cards](https://www.brainscape.com/p/1FA8-LH-5DKH7) - See <https://github.com/ross-spencer/brainscape-digital-preservation#readme> ⭐ 34 | 🐛 11 | 📅 2020-01-25 for more information.
 
 ### Find Formats
 
@@ -93,7 +93,7 @@ These tools are accessed using your browser, and work by sending a copy of your 
 
 These tools run entirely in your web browser, so no data is sent anywhere.
 
-* [Demystify Lite](https://ross-spencer.github.io/demystify-lite/) - This runs [Siegfried WASM](https://github.com/richardlehane/siegfried/tree/5e86c0355bcf30bc74e75bc3c4d3ee8a3be35ab8/wasm) ⭐ 270 | 🐛 20 | 🌐 Go | 📅 2026-07-26 on your files in your browser and outputs a [Demystify](https://github.com/exponential-decay/demystify) ⭐ 33 | 🐛 52 | 🌐 HTML | 📅 2026-04-14 formatted report profiling your collection and highlighting files that might require specific attention during appraisal, such as duplicates; and through various preservation activities, such as caring for file names encoded using specific character-encodings.
+* [Demystify Lite](https://ross-spencer.github.io/demystify-lite/) - This runs [Siegfried WASM](https://github.com/richardlehane/siegfried/tree/5e86c0355bcf30bc74e75bc3c4d3ee8a3be35ab8/wasm) ⭐ 270 | 🐛 21 | 🌐 Go | 📅 2026-07-26 on your files in your browser and outputs a [Demystify](https://github.com/exponential-decay/demystify) ⭐ 33 | 🐛 52 | 🌐 HTML | 📅 2026-04-14 formatted report profiling your collection and highlighting files that might require specific attention during appraisal, such as duplicates; and through various preservation activities, such as caring for file names encoded using specific character-encodings.
 * [warc-analyser](https://edsu.github.io/warc-analyzer/) - Proof-of-concept that analyses WARC files in your browser. See <https://github.com/edsu/warc-analyzer> ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-11 for more information.
 * [Siegfried JS](https://siegfried-js.glitch.me/) - This runs the Siegfried format identification tool on your files in your browser.
 * [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife. Capable of running lots of basic data operations on text or files, including computing things like MD5 or SHA hashes.
@@ -280,8 +280,8 @@ Software tools give us the means the interrogate, manipulate, understand and ult
 
 Resources to help build up preservation workflows, e.g. templates for how to use command-line tools, and how to chain things together.
 
-* [ffmprovisr 'Making FFmpeg Easier'](http://amiaopensource.github.io/ffmprovisr/) (example of how to use `ffmpeg` to perform specific tasks)
 * [AMIA Open Source: List of open workflows for A/V resources](https://github.com/amiaopensource/open-workflows) ⭐ 115 | 🐛 0 | 📅 2025-12-07
+* [ffmprovisr 'Making FFmpeg Easier'](http://amiaopensource.github.io/ffmprovisr/) (example of how to use `ffmpeg` to perform specific tasks)
 
 ## Improve The Tools
 
@@ -291,9 +291,9 @@ Contributing to the development and improvement of tools is easy, even if you're
 
 Identifying file formats is the bread and butter of digital preservation characterisation and assessment. Identification tool coverage and accuracy could be much better, and this primarily comes down to the signatures, or file format "magic", used to identify each format. You can help contribute and make our identification tools more effective here:
 
+* [Contribute a file format signature to FILE](https://github.com/glensc/file) ⭐ 1,654 | 🐛 0 | 🌐 C | 📅 2026-08-23 - See [this guide](http://www.openpreservation.org/blogs/2012-08-09-magic-editing-and-creation-primer).
 * [A basic guide for writing format signatures](http://openpreservation.org/blogs/2012-02-09-basic-guide-writing-new-format-signatures) - Covers [Apache Tika](https://issues.apache.org/jira/browse/TIKA) and [DROID](http://www.nationalarchives.gov.uk/PRONOM/submitinfo.htm).
 * [DROID/PRONOM also has this official guide](http://www.nationalarchives.gov.uk/documents/information-management/pronom-file-signature-research.pdf)
-* [Contribute a file format signature to FILE](https://github.com/glensc/file) ⭐ 1,654 | 🐛 0 | 🌐 C | 📅 2026-08-23 - See [this guide](http://www.openpreservation.org/blogs/2012-08-09-magic-editing-and-creation-primer).
 
 ### Improving Characterisation/Metadata Extraction
 
@@ -303,4 +303,4 @@ Deep file characterisation enables validation, identification of preservation ri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

@@ -6,6 +6,28 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Brainscape Digital Preservation Flash Cards",
+              "description": "See https://github.com/ross-spencer/brainscape-digital-preservation#readme for more information.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88924972,
+                "language": null,
+                "last_commit": "2020-01-25T03:54:00Z",
+                "owner": "ross-spencer",
+                "repo": "brainscape-digital-preservation",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Learn About Digital Preservation"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -337,6 +359,28 @@
               "description": null,
               "node_type": "group",
               "title": "JPEG2000"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SIARD test files",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 128073844,
+                    "language": "Java",
+                    "last_commit": "2026-03-24T14:43:14Z",
+                    "owner": "sfa-siard",
+                    "repo": "SiardCmd",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Databases"
             }
           ],
           "description": null,
@@ -345,10 +389,59 @@
         }
       ],
       "title": "Find Test Files"
+    },
+    {
+      "description": "Resources to help build up preservation workflows, e.g. templates for how to use command-line tools, and how to chain things together.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AMIA Open Source: List of open workflows for A/V resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72684376,
+            "language": null,
+            "last_commit": "2025-12-07T16:50:25Z",
+            "owner": "amiaopensource",
+            "repo": "open-workflows",
+            "stars": 115
+          }
+        }
+      ],
+      "title": "Build Workflows"
+    },
+    {
+      "description": "Contributing to the development and improvement of tools is easy, even if you're not technical. Check out this guide to making small documentation edits, or raising issues on GitHub",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Contribute a file format signature to FILE",
+              "description": "See this guide.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1303130,
+                "language": "C",
+                "last_commit": "2026-08-23T21:00:08Z",
+                "owner": "file",
+                "repo": "file",
+                "stars": 1654
+              }
+            }
+          ],
+          "description": "Identifying file formats is the bread and butter of digital preservation characterisation and assessment. Identification tool coverage and accuracy could be much better, and this primarily comes down to the signatures, or file format \"magic\", used to identify each format. You can help contribute and make our identification tools more effective here:",
+          "node_type": "group",
+          "title": "Improving Identification"
+        }
+      ],
+      "title": "Improve The Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:40:01.247Z",
+    "last_updated": "2026-08-24T14:38:08.231Z",
     "original_repository": "digipres/awesome-digital-preservation",
     "original_repository_id": 559326624,
     "original_repository_sha": "2cd823277922e91cba1db8ba1d9edd43be07f933",
