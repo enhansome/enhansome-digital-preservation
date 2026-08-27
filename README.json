@@ -245,7 +245,7 @@
                     "archived": false,
                     "id": 34384186,
                     "language": null,
-                    "last_commit": "2026-08-26T21:25:21Z",
+                    "last_commit": "2026-08-27T07:28:43Z",
                     "owner": "veraPDF",
                     "repo": "veraPDF-corpus",
                     "stars": 93
@@ -428,7 +428,7 @@
                 "last_commit": "2026-08-23T21:00:08Z",
                 "owner": "file",
                 "repo": "file",
-                "stars": 1654
+                "stars": 1655
               }
             }
           ],
@@ -441,9 +441,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:33:18.566Z",
-    "original_repository": "digipres/awesome-digital-preservation",
-    "original_repository_id": 559326624,
+    "last_updated": "2026-08-27T11:33:44.906Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 559326624,
+      "language": "JavaScript",
+      "last_commit": "2026-08-13T16:08:31Z",
+      "owner": "digipres",
+      "repo": "awesome-digital-preservation",
+      "stars": 139
+    },
     "original_repository_sha": "2cd823277922e91cba1db8ba1d9edd43be07f933",
     "enhanced_repository": "enhansome/enhansome-digital-preservation",
     "enhanced_repository_description": null,
