@@ -18,7 +18,8 @@
                 "owner": "ross-spencer",
                 "repo": "brainscape-digital-preservation",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T06:57:39.291Z"
             }
           ],
           "description": null,
@@ -42,7 +43,8 @@
                     "owner": "richardlehane",
                     "repo": "siegfried",
                     "stars": 270
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:39.291Z"
                 },
                 {
                   "node_type": "item",
@@ -57,7 +59,8 @@
                     "owner": "edsu",
                     "repo": "warc-analyzer",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:39.291Z"
                 }
               ],
               "description": "These tools run entirely in your web browser, so no data is sent anywhere.",
@@ -89,8 +92,9 @@
                 "last_commit": "2024-07-18T23:58:51Z",
                 "owner": "mathiasbynens",
                 "repo": "small",
-                "stars": 2298
-              }
+                "stars": 2300
+              },
+              "first_seen": "2026-08-28T06:57:39.291Z"
             },
             {
               "node_type": "item",
@@ -105,7 +109,8 @@
                 "owner": "openpreserve",
                 "repo": "format-corpus",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-28T06:57:39.291Z"
             },
             {
               "node_type": "item",
@@ -120,7 +125,8 @@
                 "owner": "thorsted",
                 "repo": "digicam_corpus",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T06:57:39.291Z"
             },
             {
               "node_type": "item",
@@ -135,7 +141,8 @@
                 "owner": "artefactual",
                 "repo": "archivematica-sampledata",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T06:57:39.291Z"
             },
             {
               "node_type": "item",
@@ -150,7 +157,8 @@
                 "owner": "opf-labs",
                 "repo": "jhove2",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:57:39.291Z"
             },
             {
               "node_type": "item",
@@ -165,7 +173,8 @@
                 "owner": "exponential-decay",
                 "repo": "pronom-archive-and-skeleton-test-suite",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T06:57:39.291Z"
             },
             {
               "node_type": "item",
@@ -180,7 +189,8 @@
                 "owner": "preforma",
                 "repo": "groundtruth",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T06:57:39.291Z"
             },
             {
               "node_type": "item",
@@ -195,7 +205,8 @@
                 "owner": "artefactual-labs",
                 "repo": "rdss-archivematica-test-data-corpus",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:57:39.291Z"
             },
             {
               "node_type": "item",
@@ -210,7 +221,8 @@
                 "owner": "MediaArea",
                 "repo": "MediaArea-RegressionTestingFiles",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:57:39.291Z"
             }
           ],
           "description": null,
@@ -234,7 +246,8 @@
                     "owner": "pdf-association",
                     "repo": "pdf-corpora",
                     "stars": 186
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:39.291Z"
                 },
                 {
                   "node_type": "item",
@@ -249,7 +262,8 @@
                     "owner": "veraPDF",
                     "repo": "veraPDF-corpus",
                     "stars": 93
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:39.291Z"
                 },
                 {
                   "node_type": "item",
@@ -264,7 +278,8 @@
                     "owner": "pdf-association",
                     "repo": "pdf-differences",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:39.291Z"
                 }
               ],
               "description": null,
@@ -286,7 +301,8 @@
                     "owner": "IDPF",
                     "repo": "epub-testsuite",
                     "stars": 81
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:39.291Z"
                 },
                 {
                   "node_type": "item",
@@ -301,7 +317,8 @@
                     "owner": "KBNLresearch",
                     "repo": "epubPolicyTests",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:39.291Z"
                 }
               ],
               "description": null,
@@ -323,7 +340,8 @@
                     "owner": "openpreserve",
                     "repo": "format-corpus",
                     "stars": 208
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:39.291Z"
                 },
                 {
                   "node_type": "item",
@@ -338,7 +356,8 @@
                     "owner": "uclouvain",
                     "repo": "openjpeg-data",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:39.291Z"
                 },
                 {
                   "node_type": "item",
@@ -353,7 +372,8 @@
                     "owner": "openpreserve",
                     "repo": "jpylyzer-test-files",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:39.291Z"
                 }
               ],
               "description": null,
@@ -375,7 +395,8 @@
                     "owner": "sfa-siard",
                     "repo": "SiardCmd",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:57:39.291Z"
                 }
               ],
               "description": null,
@@ -406,7 +427,8 @@
             "owner": "amiaopensource",
             "repo": "open-workflows",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T06:57:39.291Z"
         }
       ],
       "title": "Build Workflows"
@@ -425,11 +447,12 @@
                 "archived": false,
                 "id": 1303130,
                 "language": "C",
-                "last_commit": "2026-08-23T21:00:08Z",
+                "last_commit": "2026-08-27T18:00:08Z",
                 "owner": "file",
                 "repo": "file",
                 "stars": 1655
-              }
+              },
+              "first_seen": "2026-08-28T06:57:39.291Z"
             }
           ],
           "description": "Identifying file formats is the bread and butter of digital preservation characterisation and assessment. Identification tool coverage and accuracy could be much better, and this primarily comes down to the signatures, or file format \"magic\", used to identify each format. You can help contribute and make our identification tools more effective here:",
@@ -441,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:44.906Z",
+    "last_updated": "2026-08-28T06:57:39.291Z",
     "original_repository_info": {
       "archived": false,
       "id": 559326624,
