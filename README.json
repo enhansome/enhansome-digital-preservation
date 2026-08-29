@@ -12,12 +12,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source set of decks for learning about digital preservation.",
+                "homepage": "http://exponentialdecay.co.uk/blog/brainscape-flashcards-for-digital-preservation/",
                 "id": 88924972,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-01-25T03:54:00Z",
+                "open_issues": 11,
                 "owner": "ross-spencer",
                 "repo": "brainscape-digital-preservation",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "archival",
+                  "archivematica",
+                  "archives",
+                  "code4lib",
+                  "code4lib-jp",
+                  "digital-preservation",
+                  "flash-cards",
+                  "flashcards",
+                  "glam",
+                  "learning",
+                  "libraries",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
             }
@@ -37,12 +55,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "signature-based file format identification",
+                    "homepage": "http://www.itforarchivists.com/siegfried",
                     "id": 17277958,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-26T08:22:20Z",
+                    "open_issues": 21,
                     "owner": "richardlehane",
                     "repo": "siegfried",
-                    "stars": 270
+                    "stars": 270,
+                    "topics": [
+                      "code4lib",
+                      "digital-preservation",
+                      "format-identification",
+                      "pronom"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:39.291Z"
                 },
@@ -53,12 +81,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A client-side web application for analyzing WARC data.",
+                    "homepage": "https://edsu.github.io/warc-analyzer",
                     "id": 552978918,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-02-11T12:14:09Z",
+                    "open_issues": 0,
                     "owner": "edsu",
                     "repo": "warc-analyzer",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:39.291Z"
                 }
@@ -87,12 +120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smallest possible syntactically valid files of different types",
+                "homepage": "https://mathiasbynens.be/notes/minimal-html",
                 "id": 3014092,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-07-18T23:58:51Z",
+                "open_issues": 55,
                 "owner": "mathiasbynens",
                 "repo": "small",
-                "stars": 2300
+                "stars": 2300,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
             },
@@ -103,12 +141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An openly-licensed corpus of small example files, covering a wide range of formats and creation tools.",
+                "homepage": null,
                 "id": 4808693,
                 "language": "Rich Text Format",
+                "license": null,
                 "last_commit": "2026-06-05T16:12:18Z",
+                "open_issues": 2,
                 "owner": "openpreserve",
                 "repo": "format-corpus",
-                "stars": 208
+                "stars": 208,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
             },
@@ -119,12 +162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Corpus of Digital Camera files.",
+                "homepage": null,
                 "id": 238313641,
                 "language": "Visual Basic 6.0",
+                "license": "CC0-1.0",
                 "last_commit": "2026-01-31T16:52:21Z",
+                "open_issues": 2,
                 "owner": "thorsted",
                 "repo": "digicam_corpus",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
             },
@@ -135,12 +183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Archivematica sample data",
+                "homepage": "http://www.archivematica.org",
                 "id": 5818064,
                 "language": "Rich Text Format",
+                "license": null,
                 "last_commit": "2026-01-22T17:55:09Z",
+                "open_issues": 4,
                 "owner": "artefactual",
                 "repo": "archivematica-sampledata",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
             },
@@ -151,12 +204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Next-Generation Architecture for Format-Aware Characterization.",
+                "homepage": null,
                 "id": 16545869,
                 "language": "Java",
+                "license": "BSD-2-Clause",
                 "last_commit": "2022-01-27T16:16:42Z",
+                "open_issues": 3,
                 "owner": "opf-labs",
                 "repo": "jhove2",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
             },
@@ -167,12 +225,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Release repository for The Skeleton Test Suite. Contains an Archive of PRONOM, and skeleton files for testing DROID from The National Archives, UK.",
+                "homepage": null,
                 "id": 31055883,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-09-24T08:49:43Z",
+                "open_issues": 0,
                 "owner": "exponential-decay",
                 "repo": "pronom-archive-and-skeleton-test-suite",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "code4lib",
+                  "digipres",
+                  "digital-preservation",
+                  "file-formats",
+                  "pronom",
+                  "test-suite"
+                ]
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
             },
@@ -183,12 +253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The documentation of the PREFORMA Ground Truth Classes.",
+                "homepage": null,
                 "id": 87933485,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-10-12T14:24:09Z",
+                "open_issues": 0,
                 "owner": "preforma",
                 "repo": "groundtruth",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
             },
@@ -199,12 +274,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of research dataset files used for testing Archivematica integration and functionality in the JISC Research Data Shared Service (RDSS).",
+                "homepage": null,
                 "id": 94476808,
                 "language": "HTML",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2017-06-30T08:08:25Z",
+                "open_issues": 1,
                 "owner": "artefactual-labs",
                 "repo": "rdss-archivematica-test-data-corpus",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "archivematica",
+                  "corpus-data",
+                  "digital-preservation",
+                  "jisc",
+                  "research-data-management"
+                ]
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
             },
@@ -215,12 +301,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public regression testing files for MediaArea",
+                "homepage": null,
                 "id": 61044515,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2017-10-06T11:14:18Z",
+                "open_issues": 0,
                 "owner": "MediaArea",
                 "repo": "MediaArea-RegressionTestingFiles",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
             }
@@ -240,12 +331,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An index of PDF-centric corpora",
+                    "homepage": null,
                     "id": 291918564,
                     "language": null,
+                    "license": "CC-BY-4.0",
                     "last_commit": "2026-06-29T22:43:49Z",
+                    "open_issues": 0,
                     "owner": "pdf-association",
                     "repo": "pdf-corpora",
-                    "stars": 186
+                    "stars": 186,
+                    "topics": [
+                      "pdf",
+                      "pdf-corpora",
+                      "pdf-files",
+                      "pdfs",
+                      "test-corpus"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:39.291Z"
                 },
@@ -256,12 +358,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "veraPDF test corpus for ISO 19005 (PDF/A) and ISO 14289 (PDF/UA)",
+                    "homepage": null,
                     "id": 34384186,
                     "language": null,
-                    "last_commit": "2026-08-27T07:28:43Z",
+                    "license": null,
+                    "last_commit": "2026-08-28T07:17:08Z",
+                    "open_issues": 7,
                     "owner": "veraPDF",
                     "repo": "veraPDF-corpus",
-                    "stars": 93
+                    "stars": 93,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:39.291Z"
                 },
@@ -272,12 +379,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Targeted PDFs demonstrating commonly seen PDF differentials and interoperability issues",
+                    "homepage": null,
                     "id": 695168622,
                     "language": "HTML",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-20T02:42:29Z",
+                    "open_issues": 0,
                     "owner": "pdf-association",
                     "repo": "pdf-differences",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": [
+                      "pdf"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:39.291Z"
                 }
@@ -295,12 +409,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of EPUB documents to systematically test EPUB Reading System conformance",
+                    "homepage": null,
                     "id": 5948525,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-12-13T11:45:51Z",
+                    "open_issues": 7,
                     "owner": "IDPF",
                     "repo": "epub-testsuite",
-                    "stars": 81
+                    "stars": 81,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:39.291Z"
                 },
@@ -311,12 +430,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 32016342,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2017-08-29T10:44:12Z",
+                    "open_issues": 0,
                     "owner": "KBNLresearch",
                     "repo": "epubPolicyTests",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:39.291Z"
                 }
@@ -334,12 +458,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An openly-licensed corpus of small example files, covering a wide range of formats and creation tools.",
+                    "homepage": null,
                     "id": 4808693,
                     "language": "Rich Text Format",
+                    "license": null,
                     "last_commit": "2026-06-05T16:12:18Z",
+                    "open_issues": 2,
                     "owner": "openpreserve",
                     "repo": "format-corpus",
-                    "stars": 208
+                    "stars": 208,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:39.291Z"
                 },
@@ -350,12 +479,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Test files for the OpenJPEG libraries and utilities",
+                    "homepage": null,
                     "id": 30868481,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-11-13T15:25:44Z",
+                    "open_issues": 0,
                     "owner": "uclouvain",
                     "repo": "openjpeg-data",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": [
+                      "conformance",
+                      "jpeg2000",
+                      "non-regression",
+                      "openjpeg",
+                      "reference",
+                      "reference-files",
+                      "tests"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:57:39.291Z"
                 },
@@ -366,12 +508,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Test files for conformance testing and benchmarking Jpylyzer.",
+                    "homepage": null,
                     "id": 9031011,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2024-04-02T16:32:45Z",
+                    "open_issues": 2,
                     "owner": "openpreserve",
                     "repo": "jpylyzer-test-files",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:39.291Z"
                 }
@@ -389,12 +536,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SIARD Suite - SiardCmd",
+                    "homepage": null,
                     "id": 128073844,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-24T14:43:14Z",
+                    "open_issues": 6,
                     "owner": "sfa-siard",
                     "repo": "SiardCmd",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:39.291Z"
                 }
@@ -421,12 +573,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of open workflows and resources for A/V archiving",
+            "homepage": null,
             "id": 72684376,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-07T16:50:25Z",
+            "open_issues": 0,
             "owner": "amiaopensource",
             "repo": "open-workflows",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "avpres",
+              "digipres",
+              "open-workflows",
+              "preservation"
+            ]
           },
           "first_seen": "2026-08-28T06:57:39.291Z"
         }
@@ -445,12 +607,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read-only mirror of file CVS repository, updated every half hour. NOTE: do not make pull requests here, nor comment any commits, submit them usual way to bug tracker or to the mailing list. Maintainer(s) are not tracking  this git mirror.",
+                "homepage": "http://www.darwinsys.com/file/",
                 "id": 1303130,
                 "language": "C",
-                "last_commit": "2026-08-27T18:00:08Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T18:27:14Z",
+                "open_issues": 0,
                 "owner": "file",
                 "repo": "file",
-                "stars": 1655
+                "stars": 1655,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
             }
@@ -464,15 +631,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:57:39.291Z",
+    "last_updated": "2026-08-29T04:14:32.300Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Carefully curated list of awesome digital preservation resources.",
+      "homepage": null,
       "id": 559326624,
       "language": "JavaScript",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-13T16:08:31Z",
+      "open_issues": 7,
       "owner": "digipres",
       "repo": "awesome-digital-preservation",
-      "stars": 139
+      "stars": 140,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "digital-preservation"
+      ]
     },
     "original_repository_sha": "2cd823277922e91cba1db8ba1d9edd43be07f933",
     "enhanced_repository": "enhansome/enhansome-digital-preservation",
