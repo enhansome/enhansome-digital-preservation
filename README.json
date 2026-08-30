@@ -336,7 +336,7 @@
                     "id": 291918564,
                     "language": null,
                     "license": "CC-BY-4.0",
-                    "last_commit": "2026-06-29T22:43:49Z",
+                    "last_commit": "2026-08-30T01:12:46Z",
                     "open_issues": 0,
                     "owner": "pdf-association",
                     "repo": "pdf-corpora",
@@ -384,7 +384,7 @@
                     "id": 695168622,
                     "language": "HTML",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-03-20T02:42:29Z",
+                    "last_commit": "2026-08-30T01:13:18Z",
                     "open_issues": 0,
                     "owner": "pdf-association",
                     "repo": "pdf-differences",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:54:36.024Z",
+    "last_updated": "2026-08-30T01:18:57.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
