@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome digital preservation resources.
 
-This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 502,421 | 🐛 105 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
+This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 502,728 | 🐛 106 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
 
 Contributions are welcome. Please add links through pull requests, or create an issue to start a discussion. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidance.  And if obsolescence claims something awesome, there's always the [Archive](ARCHIVED.md).
 
@@ -93,7 +93,7 @@ These tools are accessed using your browser, and work by sending a copy of your 
 
 These tools run entirely in your web browser, so no data is sent anywhere.
 
-* [Demystify Lite](https://ross-spencer.github.io/demystify-lite/) - This runs [Siegfried WASM](https://github.com/richardlehane/siegfried/tree/5e86c0355bcf30bc74e75bc3c4d3ee8a3be35ab8/wasm) ⭐ 270 | 🐛 21 | 🌐 Go | 📅 2026-07-26 on your files in your browser and outputs a [Demystify](https://github.com/exponential-decay/demystify) ⭐ 33 | 🐛 52 | 🌐 HTML | 📅 2026-04-14 formatted report profiling your collection and highlighting files that might require specific attention during appraisal, such as duplicates; and through various preservation activities, such as caring for file names encoded using specific character-encodings.
+* [Demystify Lite](https://ross-spencer.github.io/demystify-lite/) - This runs [Siegfried WASM](https://github.com/richardlehane/siegfried/tree/5e86c0355bcf30bc74e75bc3c4d3ee8a3be35ab8/wasm) ⭐ 270 | 🐛 22 | 🌐 Go | 📅 2026-07-26 on your files in your browser and outputs a [Demystify](https://github.com/exponential-decay/demystify) ⭐ 33 | 🐛 52 | 🌐 HTML | 📅 2026-04-14 formatted report profiling your collection and highlighting files that might require specific attention during appraisal, such as duplicates; and through various preservation activities, such as caring for file names encoded using specific character-encodings.
 * [warc-analyser](https://edsu.github.io/warc-analyzer/) - Proof-of-concept that analyses WARC files in your browser. See <https://github.com/edsu/warc-analyzer> ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-11 for more information.
 * [Siegfried JS](https://siegfried-js.glitch.me/) - This runs the Siegfried format identification tool on your files in your browser.
 * [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife. Capable of running lots of basic data operations on text or files, including computing things like MD5 or SHA hashes.
@@ -217,7 +217,7 @@ To improve our digital preservation tools, we need to be able to test them and e
 
 #### PDF <!-- omit in toc -->
 
-* See also: [The PDF Association's list of PDF-focused corpora](https://github.com/pdf-association/pdf-corpora) ⭐ 186 | 🐛 0 | 📅 2026-08-30
+* See also: [The PDF Association's list of PDF-focused corpora](https://github.com/pdf-association/pdf-corpora) ⭐ 185 | 🐛 0 | 📅 2026-08-30
 * [veraPDF Corpus](https://github.com/veraPDF/veraPDF-corpus) ⭐ 93 | 🐛 10 | 📅 2026-09-01 - For PDF/A.
 * [PDF Differences](https://github.com/pdf-association/pdf-differences) ⭐ 15 | 🐛 0 | 🌐 HTML | 📅 2026-08-30 - Targeted test files that highlight specific portability and interoperability issues by the [PDF Association](https://pdfa.org/).
 * [Adobe Acrobat Engineering (*archived version*)](https://web.archive.org/web/20141019002403/http://acroeng.adobe.com/wp) - Site has lots of useful [test documents (*archived version*)](https://web.archive.org/web/20130717012227/http://acroeng.adobe.com/wp/?page_id=10).
@@ -303,4 +303,4 @@ Deep file characterisation enables validation, identification of preservation ri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

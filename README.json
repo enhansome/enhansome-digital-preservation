@@ -61,7 +61,7 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-07-26T08:22:20Z",
-                    "open_issues": 21,
+                    "open_issues": 22,
                     "owner": "richardlehane",
                     "repo": "siegfried",
                     "stars": 270,
@@ -340,7 +340,7 @@
                     "open_issues": 0,
                     "owner": "pdf-association",
                     "repo": "pdf-corpora",
-                    "stars": 186,
+                    "stars": 185,
                     "topics": [
                       "pdf",
                       "pdf-corpora",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:11:21.620Z",
+    "last_updated": "2026-09-04T01:03:56.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
