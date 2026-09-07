@@ -340,7 +340,7 @@
                     "open_issues": 0,
                     "owner": "pdf-association",
                     "repo": "pdf-corpora",
-                    "stars": 185,
+                    "stars": 184,
                     "topics": [
                       "pdf",
                       "pdf-corpora",
@@ -367,7 +367,7 @@
                     "open_issues": 10,
                     "owner": "veraPDF",
                     "repo": "veraPDF-corpus",
-                    "stars": 93,
+                    "stars": 92,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:39.291Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:04:19.717Z",
+    "last_updated": "2026-09-07T01:06:35.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
