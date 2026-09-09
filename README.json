@@ -60,7 +60,7 @@
                     "id": 17277958,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-07-26T08:22:20Z",
+                    "last_commit": "2026-09-08T09:37:15Z",
                     "open_issues": 23,
                     "owner": "richardlehane",
                     "repo": "siegfried",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:14:34.978Z",
+    "last_updated": "2026-09-09T01:17:20.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
