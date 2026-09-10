@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome digital preservation resources.
 
-This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 504,290 | 🐛 106 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
+This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 504,541 | 🐛 106 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
 
 Contributions are welcome. Please add links through pull requests, or create an issue to start a discussion. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidance.  And if obsolescence claims something awesome, there's always the [Archive](ARCHIVED.md).
 
@@ -93,7 +93,7 @@ These tools are accessed using your browser, and work by sending a copy of your 
 
 These tools run entirely in your web browser, so no data is sent anywhere.
 
-* [Demystify Lite](https://ross-spencer.github.io/demystify-lite/) - This runs [Siegfried WASM](https://github.com/richardlehane/siegfried/tree/5e86c0355bcf30bc74e75bc3c4d3ee8a3be35ab8/wasm) ⭐ 270 | 🐛 23 | 🌐 Go | 📅 2026-09-08 on your files in your browser and outputs a [Demystify](https://github.com/exponential-decay/demystify) ⭐ 33 | 🐛 52 | 🌐 HTML | 📅 2026-04-14 formatted report profiling your collection and highlighting files that might require specific attention during appraisal, such as duplicates; and through various preservation activities, such as caring for file names encoded using specific character-encodings.
+* [Demystify Lite](https://ross-spencer.github.io/demystify-lite/) - This runs [Siegfried WASM](https://github.com/richardlehane/siegfried/tree/5e86c0355bcf30bc74e75bc3c4d3ee8a3be35ab8/wasm) ⭐ 270 | 🐛 21 | 🌐 Go | 📅 2026-09-08 on your files in your browser and outputs a [Demystify](https://github.com/exponential-decay/demystify) ⭐ 33 | 🐛 52 | 🌐 HTML | 📅 2026-04-14 formatted report profiling your collection and highlighting files that might require specific attention during appraisal, such as duplicates; and through various preservation activities, such as caring for file names encoded using specific character-encodings.
 * [warc-analyser](https://edsu.github.io/warc-analyzer/) - Proof-of-concept that analyses WARC files in your browser. See <https://github.com/edsu/warc-analyzer> ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-11 for more information.
 * [Siegfried JS](https://siegfried-js.glitch.me/) - This runs the Siegfried format identification tool on your files in your browser.
 * [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife. Capable of running lots of basic data operations on text or files, including computing things like MD5 or SHA hashes.
@@ -265,7 +265,7 @@ Web archives can provide a useful source of files of particular formats. For exa
 
 ### Sourcing test files
 
-Tyler Thorsted's [File Formats - Finding Samples repository](https://github.com/thorsted/fileformat) ⭐ 3 | 🐛 0 | 📅 2026-02-07 lists various resources that can be used to find file format samples.
+Tyler Thorsted's [File Formats - Finding Samples repository](https://github.com/thorsted/fileformat) ⭐ 3 | 🐛 0 | 📅 2026-09-09 lists various resources that can be used to find file format samples.
 
 ## Find More Tools
 
@@ -303,4 +303,4 @@ Deep file characterisation enables validation, identification of preservation ri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
