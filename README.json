@@ -613,7 +613,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:27:14Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "file",
                 "repo": "file",
                 "stars": 1655,
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T01:10:31.489Z",
+    "last_updated": "2026-09-11T01:12:05.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
@@ -643,7 +643,7 @@
       "open_issues": 7,
       "owner": "digipres",
       "repo": "awesome-digital-preservation",
-      "stars": 141,
+      "stars": 142,
       "topics": [
         "awesome",
         "awesome-list",
