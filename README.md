@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome digital preservation resources.
 
-This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 504,870 | 🐛 106 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
+This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 505,166 | 🐛 106 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
 
 Contributions are welcome. Please add links through pull requests, or create an issue to start a discussion. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidance.  And if obsolescence claims something awesome, there's always the [Archive](ARCHIVED.md).
 
@@ -190,7 +190,7 @@ To improve our digital preservation tools, we need to be able to test them and e
 * [The Skeleton Test Suite](https://github.com/exponential-decay/skeleton-test-suite) ⚠️ Archived - Builds test files from PRONOM binary and container signatures. These can be used to test DROID and other (compatible) identification tools.
 * [PREFORMA Ground Truth Classes](https://github.com/preforma/groundtruth) ⭐ 2 | 🐛 0 | 📅 2017-10-12 - Instructions how to reproduce validation-failing files for Matroska, FFV1, LPCM, TIFF, and PDF formats.
 * [RDSS Archivematica Test Data Corpus](https://github.com/artefactual-labs/rdss-archivematica-test-data-corpus) ⭐ 0 | 🐛 1 | 🌐 HTML | 📅 2017-06-30 - A collection of research dataset files used for testing Archivematica integration and functionality in the JISC Research Data Shared Service (RDSS).
-* [MediaArea-RegressionTestingFiles](https://github.com/MediaArea/MediaArea-RegressionTestingFiles) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2017-10-06 - Public regression testing files for MediaArea. Contains AVI, FLV, MPEG Audio, MOV, MPEG-4, MPEG-PS, and Matroska files.
+* [MediaArea-RegressionTestingFiles](https://github.com/MediaArea/MediaArea-RegressionTestingFiles) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2026-09-11 - Public regression testing files for MediaArea. Contains AVI, FLV, MPEG Audio, MOV, MPEG-4, MPEG-PS, and Matroska files.
 * The [iPres System Showcase Test Suite](http://www.webarchive.org.uk/datasets/ipres.ds.1/) - Hosted by the UK Web Archive. *Note that UKWA is offline at present.* <!-- markdown-link-check-disable-line -->
 * The [Encyclopedia of Graphics File Formats Companion CD-ROM](https://archive.org/details/EncyclopediaOfGraphicsFileFormatsCompanionCd-rom) contains lots of test files for image formats:
   * [EGFF ISO Image](https://archive.org/download/EncyclopediaOfGraphicsFileFormatsCompanionCd-rom/GFF_CD.ISO)
@@ -291,7 +291,7 @@ Contributing to the development and improvement of tools is easy, even if you're
 
 Identifying file formats is the bread and butter of digital preservation characterisation and assessment. Identification tool coverage and accuracy could be much better, and this primarily comes down to the signatures, or file format "magic", used to identify each format. You can help contribute and make our identification tools more effective here:
 
-* [Contribute a file format signature to FILE](https://github.com/glensc/file) ⭐ 1,655 | 🐛 2 | 🌐 C | 📅 2026-08-28 - See [this guide](http://www.openpreservation.org/blogs/2012-08-09-magic-editing-and-creation-primer).
+* [Contribute a file format signature to FILE](https://github.com/glensc/file) ⭐ 1,656 | 🐛 2 | 🌐 C | 📅 2026-08-28 - See [this guide](http://www.openpreservation.org/blogs/2012-08-09-magic-editing-and-creation-primer).
 * [A basic guide for writing format signatures](http://openpreservation.org/blogs/2012-02-09-basic-guide-writing-new-format-signatures) - Covers [Apache Tika](https://issues.apache.org/jira/browse/TIKA) and [DROID](http://www.nationalarchives.gov.uk/PRONOM/submitinfo.htm).
 * [DROID/PRONOM also has this official guide](http://www.nationalarchives.gov.uk/documents/information-management/pronom-file-signature-research.pdf)
 
@@ -303,4 +303,4 @@ Deep file characterisation enables validation, identification of preservation ri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

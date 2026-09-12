@@ -306,7 +306,7 @@
                 "id": 61044515,
                 "language": "Shell",
                 "license": null,
-                "last_commit": "2017-10-06T11:14:18Z",
+                "last_commit": "2026-09-11T14:07:08Z",
                 "open_issues": 0,
                 "owner": "MediaArea",
                 "repo": "MediaArea-RegressionTestingFiles",
@@ -616,7 +616,7 @@
                 "open_issues": 2,
                 "owner": "file",
                 "repo": "file",
-                "stars": 1655,
+                "stars": 1656,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T01:12:05.426Z",
+    "last_updated": "2026-09-12T01:13:30.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
