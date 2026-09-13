@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome digital preservation resources.
 
-This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 505,166 | 🐛 106 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
+This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 505,470 | 🐛 106 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
 
 Contributions are welcome. Please add links through pull requests, or create an issue to start a discussion. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidance.  And if obsolescence claims something awesome, there's always the [Archive](ARCHIVED.md).
 
@@ -228,7 +228,7 @@ To improve our digital preservation tools, we need to be able to test them and e
 
 #### ePub <!-- omit in toc -->
 
-* [The IDPF ePub test suite](https://github.com/IDPF/epub-testsuite) ⭐ 81 | 🐛 7 | 🌐 HTML | 📅 2021-12-13
+* [The IDPF ePub test suite](https://github.com/IDPF/epub-testsuite) ⭐ 81 | 🐛 8 | 🌐 HTML | 📅 2021-12-13
 * [KBNLresearch/epubPolicyTests](https://github.com/KBNLresearch/epubPolicyTests) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2017-08-29 - Some #epub samples with encryption, DTBook content and foreign resources, with corresponding #epubcheck output.
 
 #### TIFF <!-- omit in toc -->
@@ -303,4 +303,4 @@ Deep file characterisation enables validation, identification of preservation ri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
