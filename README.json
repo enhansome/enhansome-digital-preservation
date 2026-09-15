@@ -60,7 +60,7 @@
                     "id": 17277958,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-08T09:37:15Z",
+                    "last_commit": "2026-09-14T09:31:01Z",
                     "open_issues": 21,
                     "owner": "richardlehane",
                     "repo": "siegfried",
@@ -340,7 +340,7 @@
                     "open_issues": 0,
                     "owner": "pdf-association",
                     "repo": "pdf-corpora",
-                    "stars": 184,
+                    "stars": 185,
                     "topics": [
                       "pdf",
                       "pdf-corpora",
@@ -363,7 +363,7 @@
                     "id": 34384186,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-01T18:17:24Z",
+                    "last_commit": "2026-09-14T14:52:48Z",
                     "open_issues": 10,
                     "owner": "veraPDF",
                     "repo": "veraPDF-corpus",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:13:29.500Z",
+    "last_updated": "2026-09-15T01:33:51.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
