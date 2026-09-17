@@ -129,7 +129,7 @@
                 "open_issues": 55,
                 "owner": "mathiasbynens",
                 "repo": "small",
-                "stars": 2303,
+                "stars": 2304,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -340,7 +340,7 @@
                     "open_issues": 0,
                     "owner": "pdf-association",
                     "repo": "pdf-corpora",
-                    "stars": 185,
+                    "stars": 186,
                     "topics": [
                       "pdf",
                       "pdf-corpora",
@@ -363,8 +363,8 @@
                     "id": 34384186,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-15T17:34:41Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-09-16T14:13:57Z",
+                    "open_issues": 7,
                     "owner": "veraPDF",
                     "repo": "veraPDF-corpus",
                     "stars": 92,
@@ -388,7 +388,7 @@
                     "open_issues": 0,
                     "owner": "pdf-association",
                     "repo": "pdf-differences",
-                    "stars": 15,
+                    "stars": 16,
                     "topics": [
                       "pdf"
                     ]
@@ -616,7 +616,7 @@
                 "open_issues": 2,
                 "owner": "file",
                 "repo": "file",
-                "stars": 1657,
+                "stars": 1658,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:28:52.023Z",
+    "last_updated": "2026-09-17T01:30:59.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
