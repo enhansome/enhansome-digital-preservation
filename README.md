@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome digital preservation resources.
 
-This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 506,800 | 🐛 106 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
+This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 507,190 | 🐛 106 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
 
 Contributions are welcome. Please add links through pull requests, or create an issue to start a discussion. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidance.  And if obsolescence claims something awesome, there's always the [Archive](ARCHIVED.md).
 
@@ -280,7 +280,7 @@ Software tools give us the means the interrogate, manipulate, understand and ult
 
 Resources to help build up preservation workflows, e.g. templates for how to use command-line tools, and how to chain things together.
 
-* [AMIA Open Source: List of open workflows for A/V resources](https://github.com/amiaopensource/open-workflows) ⭐ 115 | 🐛 0 | 📅 2025-12-07
+* [AMIA Open Source: List of open workflows for A/V resources](https://github.com/amiaopensource/open-workflows) ⭐ 116 | 🐛 0 | 📅 2025-12-07
 * [ffmprovisr 'Making FFmpeg Easier'](http://amiaopensource.github.io/ffmprovisr/) (example of how to use `ffmpeg` to perform specific tasks)
 
 ## Improve The Tools
@@ -303,4 +303,4 @@ Deep file characterisation enables validation, identification of preservation ri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

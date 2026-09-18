@@ -582,7 +582,7 @@
             "open_issues": 0,
             "owner": "amiaopensource",
             "repo": "open-workflows",
-            "stars": 115,
+            "stars": 116,
             "topics": [
               "avpres",
               "digipres",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T01:30:59.698Z",
+    "last_updated": "2026-09-18T01:19:11.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
