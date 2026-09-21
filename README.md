@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome digital preservation resources.
 
-This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 507,886 | 🐛 106 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
+This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 508,267 | 🐛 106 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
 
 Contributions are welcome. Please add links through pull requests, or create an issue to start a discussion. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidance.  And if obsolescence claims something awesome, there's always the [Archive](ARCHIVED.md).
 
@@ -185,7 +185,7 @@ To improve our digital preservation tools, we need to be able to test them and e
 * ["Small"](https://github.com/mathiasbynens/small) ⭐ 2,304 | 🐛 55 | 🌐 HTML | 📅 2024-07-18 - Collection of "the smallest possible syntactically valid files in different programming/scripting/markup languages."
 * The [OPF Format Corpus](https://github.com/openpreserve/format-corpus) ⭐ 208 | 🐛 2 | 🌐 Rich Text Format | 📅 2026-06-05
 * [digicam corpus](https://github.com/thorsted/digicam_corpus) ⭐ 30 | 🐛 2 | 🌐 Visual Basic 6.0 | 📅 2026-01-31 - Contains a corpus of Digital Camera files collected by Tyler Thorsted.
-* [Archivematica Sample Data](https://github.com/artefactual/archivematica-sampledata) ⭐ 16 | 🐛 4 | 🌐 Rich Text Format | 📅 2026-01-22 - Includes OPF format corpus, as well as other test material.
+* [Archivematica Sample Data](https://github.com/artefactual/archivematica-sampledata) ⭐ 16 | 🐛 5 | 🌐 Rich Text Format | 📅 2026-09-20 - Includes OPF format corpus, as well as other test material.
 * [JHOVE2's test files](https://github.com/opf-labs/jhove2/tree/master/src/test/resources/examples/) ⭐ 13 | 🐛 3 | 🌐 Java | 📅 2022-01-27
 * [The Skeleton Test Suite](https://github.com/exponential-decay/skeleton-test-suite) ⚠️ Archived - Builds test files from PRONOM binary and container signatures. These can be used to test DROID and other (compatible) identification tools.
 * [PREFORMA Ground Truth Classes](https://github.com/preforma/groundtruth) ⭐ 2 | 🐛 0 | 📅 2017-10-12 - Instructions how to reproduce validation-failing files for Matroska, FFV1, LPCM, TIFF, and PDF formats.
@@ -217,7 +217,7 @@ To improve our digital preservation tools, we need to be able to test them and e
 
 #### PDF <!-- omit in toc -->
 
-* See also: [The PDF Association's list of PDF-focused corpora](https://github.com/pdf-association/pdf-corpora) ⭐ 186 | 🐛 0 | 📅 2026-08-30
+* See also: [The PDF Association's list of PDF-focused corpora](https://github.com/pdf-association/pdf-corpora) ⭐ 187 | 🐛 0 | 📅 2026-08-30
 * [veraPDF Corpus](https://github.com/veraPDF/veraPDF-corpus) ⭐ 92 | 🐛 7 | 📅 2026-09-16 - For PDF/A.
 * [PDF Differences](https://github.com/pdf-association/pdf-differences) ⭐ 16 | 🐛 0 | 🌐 HTML | 📅 2026-08-30 - Targeted test files that highlight specific portability and interoperability issues by the [PDF Association](https://pdfa.org/).
 * [Adobe Acrobat Engineering (*archived version*)](https://web.archive.org/web/20141019002403/http://acroeng.adobe.com/wp) - Site has lots of useful [test documents (*archived version*)](https://web.archive.org/web/20130717012227/http://acroeng.adobe.com/wp/?page_id=10).
@@ -291,7 +291,7 @@ Contributing to the development and improvement of tools is easy, even if you're
 
 Identifying file formats is the bread and butter of digital preservation characterisation and assessment. Identification tool coverage and accuracy could be much better, and this primarily comes down to the signatures, or file format "magic", used to identify each format. You can help contribute and make our identification tools more effective here:
 
-* [Contribute a file format signature to FILE](https://github.com/glensc/file) ⭐ 1,658 | 🐛 2 | 🌐 C | 📅 2026-08-28 - See [this guide](http://www.openpreservation.org/blogs/2012-08-09-magic-editing-and-creation-primer).
+* [Contribute a file format signature to FILE](https://github.com/glensc/file) ⭐ 1,659 | 🐛 2 | 🌐 C | 📅 2026-08-28 - See [this guide](http://www.openpreservation.org/blogs/2012-08-09-magic-editing-and-creation-primer).
 * [A basic guide for writing format signatures](http://openpreservation.org/blogs/2012-02-09-basic-guide-writing-new-format-signatures) - Covers [Apache Tika](https://issues.apache.org/jira/browse/TIKA) and [DROID](http://www.nationalarchives.gov.uk/PRONOM/submitinfo.htm).
 * [DROID/PRONOM also has this official guide](http://www.nationalarchives.gov.uk/documents/information-management/pronom-file-signature-research.pdf)
 
@@ -303,4 +303,4 @@ Deep file characterisation enables validation, identification of preservation ri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
