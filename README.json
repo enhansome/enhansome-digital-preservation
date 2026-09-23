@@ -129,7 +129,7 @@
                 "open_issues": 55,
                 "owner": "mathiasbynens",
                 "repo": "small",
-                "stars": 2304,
+                "stars": 2303,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -188,8 +188,8 @@
                 "id": 5818064,
                 "language": "Rich Text Format",
                 "license": null,
-                "last_commit": "2026-09-20T09:00:13Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-22T05:28:18Z",
+                "open_issues": 4,
                 "owner": "artefactual",
                 "repo": "archivematica-sampledata",
                 "stars": 16,
@@ -488,7 +488,7 @@
                     "open_issues": 0,
                     "owner": "uclouvain",
                     "repo": "openjpeg-data",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": [
                       "conformance",
                       "jpeg2000",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:38:16.739Z",
+    "last_updated": "2026-09-23T01:33:14.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
@@ -640,7 +640,7 @@
       "language": "JavaScript",
       "license": "CC0-1.0",
       "last_commit": "2026-08-13T16:08:31Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "digipres",
       "repo": "awesome-digital-preservation",
       "stars": 142,
