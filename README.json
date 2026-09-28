@@ -60,11 +60,11 @@
                     "id": 17277958,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T10:23:27Z",
-                    "open_issues": 23,
+                    "last_commit": "2026-09-27T02:10:27Z",
+                    "open_issues": 21,
                     "owner": "richardlehane",
                     "repo": "siegfried",
-                    "stars": 271,
+                    "stars": 270,
                     "topics": [
                       "code4lib",
                       "digital-preservation",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:33:33.365Z",
+    "last_updated": "2026-09-28T01:45:22.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
