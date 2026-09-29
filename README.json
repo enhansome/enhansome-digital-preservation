@@ -129,7 +129,7 @@
                 "open_issues": 55,
                 "owner": "mathiasbynens",
                 "repo": "small",
-                "stars": 2304,
+                "stars": 2306,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -363,7 +363,7 @@
                     "id": 34384186,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-16T14:13:57Z",
+                    "last_commit": "2026-09-28T11:33:54Z",
                     "open_issues": 7,
                     "owner": "veraPDF",
                     "repo": "veraPDF-corpus",
@@ -616,7 +616,7 @@
                 "open_issues": 2,
                 "owner": "file",
                 "repo": "file",
-                "stars": 1661,
+                "stars": 1662,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:45:22.869Z",
+    "last_updated": "2026-09-29T02:36:21.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
