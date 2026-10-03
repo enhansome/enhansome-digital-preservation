@@ -137,7 +137,7 @@
             {
               "node_type": "item",
               "title": "The OPF Format Corpus",
-              "description": null,
+              "description": "openpreserve/format-corpus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -200,7 +200,7 @@
             {
               "node_type": "item",
               "title": "JHOVE2's test files",
-              "description": null,
+              "description": "opf-labs/jhove2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -327,7 +327,7 @@
                 {
                   "node_type": "item",
                   "title": "See also: The PDF Association's list of PDF-focused corpora",
-                  "description": null,
+                  "description": "pdf-association/pdf-corpora",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -405,7 +405,7 @@
                 {
                   "node_type": "item",
                   "title": "The IDPF ePub test suite",
-                  "description": null,
+                  "description": "IDPF/epub-testsuite",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -454,7 +454,7 @@
                 {
                   "node_type": "item",
                   "title": "OPF JP2k test corpus",
-                  "description": null,
+                  "description": "openpreserve/format-corpus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -532,7 +532,7 @@
                 {
                   "node_type": "item",
                   "title": "SIARD test files",
-                  "description": null,
+                  "description": "sfa-siard/SiardCmd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -569,7 +569,7 @@
         {
           "node_type": "item",
           "title": "AMIA Open Source: List of open workflows for A/V resources",
-          "description": null,
+          "description": "amiaopensource/open-workflows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:05:45.106Z",
+    "last_updated": "2026-10-03T04:43:31.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
