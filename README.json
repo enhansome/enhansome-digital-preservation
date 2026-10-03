@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "ross-spencer",
                 "repo": "brainscape-digital-preservation",
-                "stars": 34,
+                "stars": 35,
                 "topics": [
                   "archival",
                   "archivematica",
@@ -64,7 +64,7 @@
                     "open_issues": 21,
                     "owner": "richardlehane",
                     "repo": "siegfried",
-                    "stars": 270,
+                    "stars": 271,
                     "topics": [
                       "code4lib",
                       "digital-preservation",
@@ -129,7 +129,7 @@
                 "open_issues": 55,
                 "owner": "mathiasbynens",
                 "repo": "small",
-                "stars": 2306,
+                "stars": 2307,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -613,7 +613,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:27:14Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "file",
                 "repo": "file",
                 "stars": 1664,
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:19:16.233Z",
+    "last_updated": "2026-10-03T02:05:45.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
@@ -643,7 +643,7 @@
       "open_issues": 8,
       "owner": "digipres",
       "repo": "awesome-digital-preservation",
-      "stars": 143,
+      "stars": 144,
       "topics": [
         "awesome",
         "awesome-list",
