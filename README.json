@@ -616,7 +616,7 @@
                 "open_issues": 0,
                 "owner": "file",
                 "repo": "file",
-                "stars": 1663,
+                "stars": 1664,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T03:07:09.314Z",
+    "last_updated": "2026-10-06T11:09:27.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
