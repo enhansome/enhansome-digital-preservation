@@ -337,7 +337,7 @@
                     "language": null,
                     "license": "CC-BY-4.0",
                     "last_commit": "2026-08-30T01:12:46Z",
-                    "open_issues": 0,
+                    "open_issues": 2,
                     "owner": "pdf-association",
                     "repo": "pdf-corpora",
                     "stars": 188,
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:58:56.310Z",
+    "last_updated": "2026-10-10T02:25:53.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
@@ -640,7 +640,7 @@
       "language": "JavaScript",
       "license": "CC0-1.0",
       "last_commit": "2026-08-13T16:08:31Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "digipres",
       "repo": "awesome-digital-preservation",
       "stars": 146,

@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome digital preservation resources.
 
-This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 516,380 | 🐛 106 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
+This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 516,817 | 🐛 106 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
 
 Contributions are welcome. Please add links through pull requests, or create an issue to start a discussion. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidance.  And if obsolescence claims something awesome, there's always the [Archive](ARCHIVED.md).
 
@@ -217,7 +217,7 @@ To improve our digital preservation tools, we need to be able to test them and e
 
 #### PDF <!-- omit in toc -->
 
-* See also: [The PDF Association's list of PDF-focused corpora](https://github.com/pdf-association/pdf-corpora) ⭐ 188 | 🐛 0 | 📅 2026-08-30
+* See also: [The PDF Association's list of PDF-focused corpora](https://github.com/pdf-association/pdf-corpora) ⭐ 188 | 🐛 2 | 📅 2026-08-30
 * [veraPDF Corpus](https://github.com/veraPDF/veraPDF-corpus) ⭐ 92 | 🐛 7 | 📅 2026-09-28 - For PDF/A.
 * [PDF Differences](https://github.com/pdf-association/pdf-differences) ⭐ 16 | 🐛 0 | 🌐 HTML | 📅 2026-08-30 - Targeted test files that highlight specific portability and interoperability issues by the [PDF Association](https://pdfa.org/).
 * [Adobe Acrobat Engineering (*archived version*)](https://web.archive.org/web/20141019002403/http://acroeng.adobe.com/wp) - Site has lots of useful [test documents (*archived version*)](https://web.archive.org/web/20130717012227/http://acroeng.adobe.com/wp/?page_id=10).
@@ -303,4 +303,4 @@ Deep file characterisation enables validation, identification of preservation ri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
