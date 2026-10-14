@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome digital preservation resources.
 
-This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 518,226 | 🐛 105 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
+This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 518,693 | 🐛 105 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
 
 Contributions are welcome. Please add links through pull requests, or create an issue to start a discussion. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidance.  And if obsolescence claims something awesome, there's always the [Archive](ARCHIVED.md).
 
@@ -239,7 +239,7 @@ To improve our digital preservation tools, we need to be able to test them and e
 
 * [OPF JP2k test corpus](https://github.com/openpreserve/format-corpus/tree/master/jp2k-test) ⭐ 209 | 🐛 2 | 🌐 Rich Text Format | 📅 2026-06-05
 * [openjpeg-data](https://github.com/uclouvain/openjpeg-data) ⭐ 49 | 🐛 0 | 📅 2024-11-13 - Test files for OpenJPEG.
-* [jpylyzer-test-files](https://github.com/openpreserve/jpylyzer-test-files) ⭐ 19 | 🐛 2 | 🌐 Shell | 📅 2024-04-02 - Test files for Jpylyzer.
+* [jpylyzer-test-files](https://github.com/openpreserve/jpylyzer-test-files) ⭐ 19 | 🐛 2 | 🌐 Shell | 📅 2026-10-13 - Test files for Jpylyzer.
 * [NITF version 2.1 JPEG 2000 Sample Imagery (*archived version*)](https://web.archive.org/web/20180413152928/http://www.gwg.nga.mil/ntb/baseline/software/testfile/Jpeg2000/index.htm)
 * [JPEG 2000 Part 4 Conformance Test Files (*archived version*)](http://web.archive.org/web/20080510121012/http://www.crc.ricoh.com/~gormish/jpeg2000conformance/) (v.1.5 with earlier versions also available in the archive history)
 
@@ -291,7 +291,7 @@ Contributing to the development and improvement of tools is easy, even if you're
 
 Identifying file formats is the bread and butter of digital preservation characterisation and assessment. Identification tool coverage and accuracy could be much better, and this primarily comes down to the signatures, or file format "magic", used to identify each format. You can help contribute and make our identification tools more effective here:
 
-* [Contribute a file format signature to FILE](https://github.com/glensc/file) ⭐ 1,669 | 🐛 0 | 🌐 C | 📅 2026-10-12 - See [this guide](http://www.openpreservation.org/blogs/2012-08-09-magic-editing-and-creation-primer).
+* [Contribute a file format signature to FILE](https://github.com/glensc/file) ⭐ 1,670 | 🐛 0 | 🌐 C | 📅 2026-10-13 - See [this guide](http://www.openpreservation.org/blogs/2012-08-09-magic-editing-and-creation-primer).
 * [A basic guide for writing format signatures](http://openpreservation.org/blogs/2012-02-09-basic-guide-writing-new-format-signatures) - Covers [Apache Tika](https://issues.apache.org/jira/browse/TIKA) and [DROID](http://www.nationalarchives.gov.uk/PRONOM/submitinfo.htm).
 * [DROID/PRONOM also has this official guide](http://www.nationalarchives.gov.uk/documents/information-management/pronom-file-signature-research.pdf)
 
@@ -303,4 +303,4 @@ Deep file characterisation enables validation, identification of preservation ri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
