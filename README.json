@@ -388,7 +388,7 @@
                     "open_issues": 0,
                     "owner": "pdf-association",
                     "repo": "pdf-differences",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": [
                       "pdf"
                     ]
@@ -613,10 +613,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-14T18:00:10Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "file",
                 "repo": "file",
-                "stars": 1670,
+                "stars": 1671,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:33:58.398Z",
+    "last_updated": "2026-10-16T01:29:30.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
