@@ -171,7 +171,7 @@
                 "open_issues": 2,
                 "owner": "thorsted",
                 "repo": "digicam_corpus",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -612,7 +612,7 @@
                 "id": 1303130,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T18:00:10Z",
+                "last_commit": "2026-10-16T15:00:09Z",
                 "open_issues": 1,
                 "owner": "file",
                 "repo": "file",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T01:29:30.776Z",
+    "last_updated": "2026-10-17T01:21:27.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
