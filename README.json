@@ -129,7 +129,7 @@
                 "open_issues": 55,
                 "owner": "mathiasbynens",
                 "repo": "small",
-                "stars": 2311,
+                "stars": 2310,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -336,8 +336,8 @@
                     "id": 291918564,
                     "language": null,
                     "license": "CC-BY-4.0",
-                    "last_commit": "2026-08-30T01:12:46Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-19T09:42:03Z",
+                    "open_issues": 0,
                     "owner": "pdf-association",
                     "repo": "pdf-corpora",
                     "stars": 188,
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T01:22:44.330Z",
+    "last_updated": "2026-10-20T01:54:44.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",

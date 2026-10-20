@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome digital preservation resources.
 
-This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 520,991 | 🐛 105 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
+This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 521,503 | 🐛 105 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
 
 Contributions are welcome. Please add links through pull requests, or create an issue to start a discussion. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidance.  And if obsolescence claims something awesome, there's always the [Archive](ARCHIVED.md).
 
@@ -182,7 +182,7 @@ To improve our digital preservation tools, we need to be able to test them and e
 
 ### Multi-format Corpora
 
-* ["Small"](https://github.com/mathiasbynens/small) ⭐ 2,311 | 🐛 55 | 🌐 HTML | 📅 2024-07-18 - Collection of "the smallest possible syntactically valid files in different programming/scripting/markup languages."
+* ["Small"](https://github.com/mathiasbynens/small) ⭐ 2,310 | 🐛 55 | 🌐 HTML | 📅 2024-07-18 - Collection of "the smallest possible syntactically valid files in different programming/scripting/markup languages."
 * The [OPF Format Corpus](https://github.com/openpreserve/format-corpus) ⭐ 209 | 🐛 2 | 🌐 Rich Text Format | 📅 2026-06-05
 * [digicam corpus](https://github.com/thorsted/digicam_corpus) ⭐ 31 | 🐛 2 | 🌐 Visual Basic 6.0 | 📅 2026-01-31 - Contains a corpus of Digital Camera files collected by Tyler Thorsted.
 * [Archivematica Sample Data](https://github.com/artefactual/archivematica-sampledata) ⭐ 16 | 🐛 4 | 🌐 Rich Text Format | 📅 2026-09-22 - Includes OPF format corpus, as well as other test material.
@@ -217,7 +217,7 @@ To improve our digital preservation tools, we need to be able to test them and e
 
 #### PDF <!-- omit in toc -->
 
-* See also: [The PDF Association's list of PDF-focused corpora](https://github.com/pdf-association/pdf-corpora) ⭐ 188 | 🐛 2 | 📅 2026-08-30
+* See also: [The PDF Association's list of PDF-focused corpora](https://github.com/pdf-association/pdf-corpora) ⭐ 188 | 🐛 0 | 📅 2026-10-19
 * [veraPDF Corpus](https://github.com/veraPDF/veraPDF-corpus) ⭐ 92 | 🐛 7 | 📅 2026-09-28 - For PDF/A.
 * [PDF Differences](https://github.com/pdf-association/pdf-differences) ⭐ 17 | 🐛 0 | 🌐 HTML | 📅 2026-08-30 - Targeted test files that highlight specific portability and interoperability issues by the [PDF Association](https://pdfa.org/).
 * [Adobe Acrobat Engineering (*archived version*)](https://web.archive.org/web/20141019002403/http://acroeng.adobe.com/wp) - Site has lots of useful [test documents (*archived version*)](https://web.archive.org/web/20130717012227/http://acroeng.adobe.com/wp/?page_id=10).
@@ -303,4 +303,4 @@ Deep file characterisation enables validation, identification of preservation ri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
