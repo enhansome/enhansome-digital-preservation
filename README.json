@@ -613,7 +613,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-16T15:00:09Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "file",
                 "repo": "file",
                 "stars": 1671,
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:54:44.559Z",
+    "last_updated": "2026-10-21T01:41:44.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
