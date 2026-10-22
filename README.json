@@ -64,7 +64,7 @@
                     "open_issues": 21,
                     "owner": "richardlehane",
                     "repo": "siegfried",
-                    "stars": 273,
+                    "stars": 274,
                     "topics": [
                       "code4lib",
                       "digital-preservation",
@@ -171,7 +171,7 @@
                 "open_issues": 2,
                 "owner": "thorsted",
                 "repo": "digicam_corpus",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -613,10 +613,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-16T15:00:09Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "file",
                 "repo": "file",
-                "stars": 1671,
+                "stars": 1672,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T01:41:44.034Z",
+    "last_updated": "2026-10-22T01:36:53.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
