@@ -167,7 +167,7 @@
                 "id": 238313641,
                 "language": "Visual Basic 6.0",
                 "license": "CC0-1.0",
-                "last_commit": "2026-01-31T16:52:21Z",
+                "last_commit": "2026-10-28T20:34:24Z",
                 "open_issues": 2,
                 "owner": "thorsted",
                 "repo": "digicam_corpus",
@@ -616,7 +616,7 @@
                 "open_issues": 4,
                 "owner": "file",
                 "repo": "file",
-                "stars": 1676,
+                "stars": 1678,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T02:23:08.673Z",
+    "last_updated": "2026-10-29T02:30:32.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
