@@ -612,11 +612,11 @@
                 "id": 1303130,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T20:00:07Z",
+                "last_commit": "2026-10-29T20:00:07Z",
                 "open_issues": 4,
                 "owner": "file",
                 "repo": "file",
-                "stars": 1678,
+                "stars": 1679,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:30:32.664Z",
+    "last_updated": "2026-10-30T02:40:58.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
