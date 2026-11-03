@@ -367,7 +367,7 @@
                     "open_issues": 7,
                     "owner": "veraPDF",
                     "repo": "veraPDF-corpus",
-                    "stars": 93,
+                    "stars": 94,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:39.291Z"
@@ -616,7 +616,7 @@
                 "open_issues": 4,
                 "owner": "file",
                 "repo": "file",
-                "stars": 1683,
+                "stars": 1684,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T02:36:15.397Z",
+    "last_updated": "2026-11-03T03:57:20.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
