@@ -363,8 +363,8 @@
                     "id": 34384186,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-11-03T19:14:14Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-11-04T09:32:55Z",
+                    "open_issues": 9,
                     "owner": "veraPDF",
                     "repo": "veraPDF-corpus",
                     "stars": 94,
@@ -616,7 +616,7 @@
                 "open_issues": 4,
                 "owner": "file",
                 "repo": "file",
-                "stars": 1685,
+                "stars": 1686,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T03:02:09.699Z",
+    "last_updated": "2026-11-05T03:33:20.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
