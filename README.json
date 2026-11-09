@@ -415,7 +415,7 @@
                     "language": "HTML",
                     "license": "NOASSERTION",
                     "last_commit": "2021-12-13T11:45:51Z",
-                    "open_issues": 8,
+                    "open_issues": 12,
                     "owner": "IDPF",
                     "repo": "epub-testsuite",
                     "stars": 81,
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:32:54.641Z",
+    "last_updated": "2026-11-09T02:44:20.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
