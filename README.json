@@ -363,7 +363,7 @@
                     "id": 34384186,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-11-05T19:47:47Z",
+                    "last_commit": "2026-11-09T19:26:28Z",
                     "open_issues": 9,
                     "owner": "veraPDF",
                     "repo": "veraPDF-corpus",
@@ -408,13 +408,13 @@
                   "description": "IDPF/epub-testsuite",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "A collection of EPUB documents to systematically test EPUB Reading System conformance",
                     "homepage": null,
                     "id": 5948525,
                     "language": "HTML",
                     "license": "NOASSERTION",
-                    "last_commit": "2021-12-13T11:45:51Z",
+                    "last_commit": "2026-11-09T16:55:12Z",
                     "open_issues": 12,
                     "owner": "IDPF",
                     "repo": "epub-testsuite",
@@ -612,7 +612,7 @@
                 "id": 1303130,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T21:00:07Z",
+                "last_commit": "2026-11-09T19:00:09Z",
                 "open_issues": 5,
                 "owner": "file",
                 "repo": "file",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:44:20.984Z",
+    "last_updated": "2026-11-10T04:40:22.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",

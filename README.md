@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome digital preservation resources.
 
-This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 533,921 | 🐛 103 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
+This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 534,375 | 🐛 103 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
 
 Contributions are welcome. Please add links through pull requests, or create an issue to start a discussion. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidance.  And if obsolescence claims something awesome, there's always the [Archive](ARCHIVED.md).
 
@@ -218,7 +218,7 @@ To improve our digital preservation tools, we need to be able to test them and e
 #### PDF <!-- omit in toc -->
 
 * See also: [The PDF Association's list of PDF-focused corpora](https://github.com/pdf-association/pdf-corpora) ⭐ 188 | 🐛 0 | 📅 2026-10-19
-* [veraPDF Corpus](https://github.com/veraPDF/veraPDF-corpus) ⭐ 94 | 🐛 9 | 📅 2026-11-05 - For PDF/A.
+* [veraPDF Corpus](https://github.com/veraPDF/veraPDF-corpus) ⭐ 94 | 🐛 9 | 📅 2026-11-09 - For PDF/A.
 * [PDF Differences](https://github.com/pdf-association/pdf-differences) ⭐ 17 | 🐛 0 | 🌐 HTML | 📅 2026-08-30 - Targeted test files that highlight specific portability and interoperability issues by the [PDF Association](https://pdfa.org/).
 * [Adobe Acrobat Engineering (*archived version*)](https://web.archive.org/web/20141019002403/http://acroeng.adobe.com/wp) - Site has lots of useful [test documents (*archived version*)](https://web.archive.org/web/20130717012227/http://acroeng.adobe.com/wp/?page_id=10).
 * [Isartor PDF/A Test Suite](https://pdfa.org/resource/isartor-test-suite/)
@@ -228,7 +228,7 @@ To improve our digital preservation tools, we need to be able to test them and e
 
 #### ePub <!-- omit in toc -->
 
-* [The IDPF ePub test suite](https://github.com/IDPF/epub-testsuite) ⭐ 81 | 🐛 12 | 🌐 HTML | 📅 2021-12-13
+* [The IDPF ePub test suite](https://github.com/IDPF/epub-testsuite) ⚠️ Archived
 * [KBNLresearch/epubPolicyTests](https://github.com/KBNLresearch/epubPolicyTests) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2017-08-29 - Some #epub samples with encryption, DTBook content and foreign resources, with corresponding #epubcheck output.
 
 #### TIFF <!-- omit in toc -->
@@ -291,7 +291,7 @@ Contributing to the development and improvement of tools is easy, even if you're
 
 Identifying file formats is the bread and butter of digital preservation characterisation and assessment. Identification tool coverage and accuracy could be much better, and this primarily comes down to the signatures, or file format "magic", used to identify each format. You can help contribute and make our identification tools more effective here:
 
-* [Contribute a file format signature to FILE](https://github.com/glensc/file) ⭐ 1,690 | 🐛 5 | 🌐 C | 📅 2026-11-03 - See [this guide](http://www.openpreservation.org/blogs/2012-08-09-magic-editing-and-creation-primer).
+* [Contribute a file format signature to FILE](https://github.com/glensc/file) ⭐ 1,690 | 🐛 5 | 🌐 C | 📅 2026-11-09 - See [this guide](http://www.openpreservation.org/blogs/2012-08-09-magic-editing-and-creation-primer).
 * [A basic guide for writing format signatures](http://openpreservation.org/blogs/2012-02-09-basic-guide-writing-new-format-signatures) - Covers [Apache Tika](https://issues.apache.org/jira/browse/TIKA) and [DROID](http://www.nationalarchives.gov.uk/PRONOM/submitinfo.htm).
 * [DROID/PRONOM also has this official guide](http://www.nationalarchives.gov.uk/documents/information-management/pronom-file-signature-research.pdf)
 
@@ -303,4 +303,4 @@ Deep file characterisation enables validation, identification of preservation ri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
