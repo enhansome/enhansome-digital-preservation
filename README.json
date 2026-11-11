@@ -64,7 +64,7 @@
                     "open_issues": 21,
                     "owner": "richardlehane",
                     "repo": "siegfried",
-                    "stars": 273,
+                    "stars": 274,
                     "topics": [
                       "code4lib",
                       "digital-preservation",
@@ -150,7 +150,7 @@
                 "open_issues": 3,
                 "owner": "openpreserve",
                 "repo": "format-corpus",
-                "stars": 209,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -467,7 +467,7 @@
                     "open_issues": 3,
                     "owner": "openpreserve",
                     "repo": "format-corpus",
-                    "stars": 209,
+                    "stars": 210,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:57:39.291Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:40:22.814Z",
+    "last_updated": "2026-11-11T02:51:06.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
@@ -643,7 +643,7 @@
       "open_issues": 9,
       "owner": "digipres",
       "repo": "awesome-digital-preservation",
-      "stars": 149,
+      "stars": 151,
       "topics": [
         "awesome",
         "awesome-list",

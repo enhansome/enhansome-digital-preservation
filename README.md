@@ -2,7 +2,7 @@
 
 > Carefully curated list of awesome digital preservation resources.
 
-This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 534,375 | 🐛 103 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
+This [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 534,928 | 🐛 103 | 📅 2026-09-02 is one a suite of community-owned resources for digital preservation. See [digipres.org](https://www.digipres.org) or [the digipres.org discussion forum](https://github.com/orgs/digipres/discussions) for more information.
 
 Contributions are welcome. Please add links through pull requests, or create an issue to start a discussion. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidance.  And if obsolescence claims something awesome, there's always the [Archive](ARCHIVED.md).
 
@@ -93,7 +93,7 @@ These tools are accessed using your browser, and work by sending a copy of your 
 
 These tools run entirely in your web browser, so no data is sent anywhere.
 
-* [Demystify Lite](https://ross-spencer.github.io/demystify-lite/) - This runs [Siegfried WASM](https://github.com/richardlehane/siegfried/tree/5e86c0355bcf30bc74e75bc3c4d3ee8a3be35ab8/wasm) ⭐ 273 | 🐛 21 | 🌐 Go | 📅 2026-09-27 on your files in your browser and outputs a [Demystify](https://github.com/exponential-decay/demystify) ⭐ 34 | 🐛 52 | 🌐 HTML | 📅 2026-04-14 formatted report profiling your collection and highlighting files that might require specific attention during appraisal, such as duplicates; and through various preservation activities, such as caring for file names encoded using specific character-encodings.
+* [Demystify Lite](https://ross-spencer.github.io/demystify-lite/) - This runs [Siegfried WASM](https://github.com/richardlehane/siegfried/tree/5e86c0355bcf30bc74e75bc3c4d3ee8a3be35ab8/wasm) ⭐ 274 | 🐛 21 | 🌐 Go | 📅 2026-09-27 on your files in your browser and outputs a [Demystify](https://github.com/exponential-decay/demystify) ⭐ 34 | 🐛 52 | 🌐 HTML | 📅 2026-04-14 formatted report profiling your collection and highlighting files that might require specific attention during appraisal, such as duplicates; and through various preservation activities, such as caring for file names encoded using specific character-encodings.
 * [warc-analyser](https://edsu.github.io/warc-analyzer/) - Proof-of-concept that analyses WARC files in your browser. See <https://github.com/edsu/warc-analyzer> ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-11 for more information.
 * [Siegfried JS](https://siegfried-js.glitch.me/) - This runs the Siegfried format identification tool on your files in your browser.
 * [CyberChef](https://gchq.github.io/CyberChef/) - The Cyber Swiss Army Knife. Capable of running lots of basic data operations on text or files, including computing things like MD5 or SHA hashes.
@@ -183,7 +183,7 @@ To improve our digital preservation tools, we need to be able to test them and e
 ### Multi-format Corpora
 
 * ["Small"](https://github.com/mathiasbynens/small) ⭐ 2,313 | 🐛 55 | 🌐 HTML | 📅 2024-07-18 - Collection of "the smallest possible syntactically valid files in different programming/scripting/markup languages."
-* The [OPF Format Corpus](https://github.com/openpreserve/format-corpus) ⭐ 209 | 🐛 3 | 🌐 Rich Text Format | 📅 2026-06-05
+* The [OPF Format Corpus](https://github.com/openpreserve/format-corpus) ⭐ 210 | 🐛 3 | 🌐 Rich Text Format | 📅 2026-06-05
 * [digicam corpus](https://github.com/thorsted/digicam_corpus) ⭐ 32 | 🐛 2 | 🌐 Visual Basic 6.0 | 📅 2026-10-28 - Contains a corpus of Digital Camera files collected by Tyler Thorsted.
 * [Archivematica Sample Data](https://github.com/artefactual/archivematica-sampledata) ⭐ 16 | 🐛 4 | 🌐 Rich Text Format | 📅 2026-09-22 - Includes OPF format corpus, as well as other test material.
 * [JHOVE2's test files](https://github.com/opf-labs/jhove2/tree/master/src/test/resources/examples/) ⭐ 13 | 🐛 3 | 🌐 Java | 📅 2022-01-27
@@ -237,7 +237,7 @@ To improve our digital preservation tools, we need to be able to test them and e
 
 #### JPEG2000 <!-- omit in toc -->
 
-* [OPF JP2k test corpus](https://github.com/openpreserve/format-corpus/tree/master/jp2k-test) ⭐ 209 | 🐛 3 | 🌐 Rich Text Format | 📅 2026-06-05
+* [OPF JP2k test corpus](https://github.com/openpreserve/format-corpus/tree/master/jp2k-test) ⭐ 210 | 🐛 3 | 🌐 Rich Text Format | 📅 2026-06-05
 * [openjpeg-data](https://github.com/uclouvain/openjpeg-data) ⭐ 49 | 🐛 0 | 📅 2024-11-13 - Test files for OpenJPEG.
 * [jpylyzer-test-files](https://github.com/openpreserve/jpylyzer-test-files) ⭐ 20 | 🐛 2 | 🌐 Shell | 📅 2026-10-13 - Test files for Jpylyzer.
 * [NITF version 2.1 JPEG 2000 Sample Imagery (*archived version*)](https://web.archive.org/web/20180413152928/http://www.gwg.nga.mil/ntb/baseline/software/testfile/Jpeg2000/index.htm)
@@ -303,4 +303,4 @@ Deep file characterisation enables validation, identification of preservation ri
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
