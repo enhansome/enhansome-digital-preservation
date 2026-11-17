@@ -129,7 +129,7 @@
                 "open_issues": 55,
                 "owner": "mathiasbynens",
                 "repo": "small",
-                "stars": 2313,
+                "stars": 2312,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -616,7 +616,7 @@
                 "open_issues": 0,
                 "owner": "file",
                 "repo": "file",
-                "stars": 1692,
+                "stars": 1693,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:51:28.114Z",
+    "last_updated": "2026-11-17T05:07:15.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
