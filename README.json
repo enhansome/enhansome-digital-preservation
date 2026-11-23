@@ -60,7 +60,7 @@
                     "id": 17277958,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-21T12:43:55Z",
+                    "last_commit": "2026-11-23T00:15:30Z",
                     "open_issues": 22,
                     "owner": "richardlehane",
                     "repo": "siegfried",
@@ -616,7 +616,7 @@
                 "open_issues": 2,
                 "owner": "file",
                 "repo": "file",
-                "stars": 1694,
+                "stars": 1695,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:39.291Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T03:16:35.094Z",
+    "last_updated": "2026-11-23T03:46:59.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome digital preservation resources.",
